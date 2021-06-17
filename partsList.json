@@ -1,0 +1,562 @@
+
+{
+ "DA96-01052A": [
+        {
+        "description": "ASSY EVAP-REF",
+        "SEC": "DA96-01052A",
+        "Details":"https://www.samsungparts.com/DA96-01052A-EVAP-ASSY.html",
+        "price":"$112.71"
+        }
+    ],
+    "DA32-00029N": [
+        {
+        "description": "SENSOR TEMP",
+        "SEC": "DA32-00029N",
+        "Details":"https://www.samsungparts.com/DA32-00029N-SENSOR.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA47-00465A": [
+        {
+        "description": "HEATER METAL SHEATH",
+        "SEC": "DA47-00465A",
+        "Details":"https://www.samsungparts.com/DA47-00465A-HEATER.html",
+        "price":"$73.00"
+        }
+    ],
+    "DA61-03683A": [
+        {
+        "description": "SENSOR FIXER",
+        "SEC": "DA61-03683A",
+        "Details":"https://www.samsungparts.com/DA61-03683A.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA47-00301E": [
+        {
+        "description": "THERMO FUSE-ASSY",
+        "SEC": "DA47-00301E",
+        "Details":"https://www.samsungparts.com/DA47-00301E-FUSE.html",
+        "price":"$13.49"
+        }
+    ],
+    "DA61-05702B": [
+        {
+        "description": "PLATE-DRAIN EVAP REF",
+        "SEC": "DA61-05702B",
+        "Details":"https://www.samsungparts.com/DA61-05702B-EVAP-REF.html",
+        "price":"$22.07"
+        }
+    ],
+    "DA61-06700A": [ 
+        {
+        "description": "FIXER-HEATER WIRE REF",
+        "SEC": "DA61-06700A",
+        "Details":"https://www.samsungparts.com/DA61-06700A.html",
+        "price":"$4.75"
+        }
+    ],
+    "DA97-14441A": [
+        {
+        "description": "ASSY COVER EVAP-REF",
+        "SEC": "DA97-14441A",
+        "Details":"https://www.samsungparts.com/DA97-14441A-COVER.html",
+        "price":"$104.77"
+        }
+    ],
+    "DA63-04129F": [
+        {
+        "description": "COVER-PURIFIER LOW",
+        "SEC": "DA63-04129F",
+        "Details":"https://www.samsungparts.com/DA63-04129F-COVER.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA64-02468A": [
+        {
+        "description": "TRIM-PURIFIER LOW",
+        "SEC": "DA64-02468A",
+        "Details":"https://www.samsungparts.com/DA64-02468A.html",
+        "price":"$30.16"
+        }
+    ],
+    "DA61-04393A": [
+        {
+        "description": "GUIDE AIR-REF",
+        "SEC": "DA61-04393A",
+        "Details":"https://www.samsungparts.com/DA61-04393A.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA96-00424C": [
+        {
+        "description": "ASSY W/HARNESS-LED LAMP",
+        "SEC": "DA96-00424C",
+        "Details":"https://www.samsungparts.com/DA96-00424C-HARNESS.html",
+        "price":"$8.95"
+        }
+    ],
+    "DA63-04128B": [
+        {
+        "description": "COVER-LED REF LOW",
+        "SEC": "DA63-04128B",
+        "Details":"https://www.samsungparts.com/DA63-04128B-LED.html",
+        "price":"$4.75"
+        }
+    ],
+    "DA63-07037A": [ 
+        {
+        "description": "COVER EVAP-REF",
+        "SEC": "DA63-07037A",
+        "Details":"",
+        "price":""
+        }
+    ],
+    "DA31-00287B": [
+        {
+        "description": "MOTOR BLDC-FAN",
+        "SEC": "DA31-00287B",
+        "Details":"https://www.samsungparts.com/DA31-00287B-MOTOR-FAN.html",
+        "price":"$67.10"
+        }
+    ],
+    "DA61-08438A": [
+        {
+        "description": "PLATE-MOTOR REF",
+        "SEC": "DA61-08438A",
+        "Details":"https://www.samsungparts.com/DA61-08438A-MOTOR.html",
+        "price":"$12.56"
+        }
+    ],
+    "DA61-08409A": [
+        {
+        "description": "SUPPORT-INS EVAP REF",
+        "SEC": "DA61-08409A",
+        "Details":"",
+        "price":""
+        }
+    ],
+      "DA61-08409AA": [
+        {
+        "description": "SUPPORT-INS EVAP REF",
+        "SEC": "DA61-08409A",
+        "Details":"",
+        "price":""
+        }
+    ],
+    "DA96-00392C": [
+        {
+        "description": "ASSY-LAMP LED",
+        "SEC": "DA96-00392C",
+        "Details":"https://www.samsungparts.com/DA96-00392C.html",
+        "price":"$14.75"
+        }
+    ],
+    "P6002-001204": [
+        {
+        "description": "TAPPING SCREW",
+        "SEC": "6002-001204",
+        "Details":"http://www.samsungparts.com/Products/Parts_and_Accessories/PID-6002-001204.aspxW",
+        "price":"$1.85"
+        }
+    ],
+    "J6002-000471": [
+        {
+        "description": "TAPPING SCREW",
+        "SEC": "6002-000471",
+        "Details":"https://www.samsungparts.com/6002-000471-SCREW.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA47-00283B": [
+        {
+        "description": "HEATER-WATER TANK",
+        "SEC": "DA47-00283B",
+        "Details":"https://www.samsungparts.com/DA47-00283B.html",
+        "price":"$29.91"
+        }
+    ],
+    "DA63-04150A": [
+        {
+        "description": "COVER-FILTER",
+        "SEC": "DA63-04150A",
+        "Details":"https://www.samsungparts.com/DA63-04150A-FILTER-COVER.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA97-06101D": [
+        {
+        "description": "ASSY-COVER MULT REF",
+        "SEC": "DA97-06101D",
+        "Details":"https://www.samsungparts.com/DA97-06101D.html",
+        "price":"$67.48"
+        }
+    ],
+    "DA32-00066G": [ 
+        {
+        "description": "SENSOR TEMP",
+        "SEC": "DA32-00066G",
+        "Details":"https://www.samsungparts.com/DA32-00066G-SENSOR.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA41-00519B": [
+        {
+        "description": "LED LAMP PBA",
+        "SEC": "DA41-00519B",
+        "Details":"https://www.samsungparts.com/DA41-00519B-LAMP.html",
+        "price":"$19.84"
+        }
+    ],
+    "DA96-00424A": [
+        {
+        "description": "ASSY W/HARNESS-LED LAMP",
+        "SEC": "DA96-00424A",
+        "Details":"https://www.samsungparts.com/DA96-00424A-HARNESS.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA63-04126A": [
+        {
+        "description": "COVER-PURIFIER HIGH A",
+        "SEC": "DA63-04126A",
+        "Details":"https://www.samsungparts.com/DA63-04126A.html",
+        "price":"$4.75"
+        }
+    ],
+    "DA63-04127A": [
+        {
+        "description": "COVER-PURIFIER HIGH B",
+        "SEC": "DA63-04127A",
+        "Details":"http://www.samsungparts.com/Products/Parts_and_Accessories/PID-DA63-04127A.aspx",
+        "price":"$1.85"
+        }
+    ],
+    "DA64-02465A": [
+        {
+        "description": "TRIM-PURIFIER UPP",
+        "SEC": "DA64-02465A",
+        "Details":"https://www.samsungparts.com/DA64-02465A.html",
+        "price":"$8.95"
+        }
+    ],
+
+       "DA64-02465AA": [
+        {
+        "description": "TRIM-PURIFIER UPP",
+        "SEC": "DA64-02465A",
+        "Details":"https://www.samsungparts.com/DA64-02465A.html",
+        "price":"$8.95"
+        }
+    ],
+    "K6003-000333": [
+        {
+        "description": "SCREW-TAPTYPE",
+        "SEC": "6003-000333",
+        "Details":"https://www.samsungparts.com/6003-000333-SCREW.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-06092A": [ 
+        {
+        "description": "ASSY COVER-LAMP REF",
+        "SEC": "DA97-06092A",
+        "Details":"https://www.samsungparts.com/DA97-06092A-COVER.html",
+        "price":"$24.32"
+        }
+    ],
+    "DA63-04120A": [
+        {
+        "description": "COVER LAMP-LED REF",
+        "SEC": "DA63-04120A",
+        "Details":"https://www.samsungparts.com/DA63-04120A-FRE-LAMP-COVER.html",
+        "price":"$11.75"
+        }
+    ],
+    "DA63-04121A": [
+        {
+        "description": "COVER-SENSOR MID A",
+        "SEC": "DA63-04121A",
+        "Details":"",
+        "price":""
+        }
+    ],
+    "DA63-04122A": [
+        {
+        "description": "COVER-SENSOR MID B",
+        "SEC": "DA63-04122A",
+        "Details":"https://www.samsungparts.com/DA63-04122A.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA63-04123A": [
+        {
+        "description": "COVER-SENSOR MID C",
+        "SEC": "DA63-04123A",
+        "Details":"https://www.samsungparts.com/DA63-04123A.html",
+        "price":"$6.95"
+        }
+    ],
+    "DA75-00267A": [
+        {
+        "description": "RACK-WINE",
+        "SEC": "DA75-00267A",
+        "Details":"https://www.samsungparts.com/DA75-00267A.html",
+        "price":"$79.95"
+        }
+    ],
+"DA97-06102B": [
+        {
+        "description": "ASSY-SHELF REF FOLD",
+        "SEC": "DA97-06102B",
+        "Details":"https://www.samsungparts.com/DA97-06102B-SHELF.html",
+        "price":"$65.12"
+        }
+    ],
+    "DA67-01930B": [
+        {
+        "description": "SHELF REF-FOLD A",
+        "SEC": "DA67-01930B",
+        "Details":"https://www.samsungparts.com/DA67-01930B-SHELF.html",
+        "price":"$32.22"
+        }
+    ],
+    "DA67-01931B": [
+        {
+        "description": "SHELF REF-FOLD B",
+        "SEC": "DA67-01931B",
+        "Details":"https://www.samsungparts.com/DA67-01931B-SHELF.html",
+        "price":"$31.02"
+        }
+    ],
+    "DA97-06317A": [
+        {
+        "description": "WATER FILTER HOUSING/NOT WATER FILTER",
+        "SEC": "DA97-06317A",
+        "Details":"https://www.samsungparts.com/DA97-06317A-WATER-FILTER-HOUSING.html",
+        "price":"$47.25"
+        }
+    ],
+    "DA67-02270A": [ 
+        {
+        "description": "CAP-SUPPORT FILTER",
+        "SEC": "DA67-02270A",
+        "Details":"https://www.samsungparts.com/DA67-02270A-CAP.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-06549A": [
+        {
+        "description": "ASSY-CAN CARRY",
+        "SEC": "DA97-06549A",
+        "Details":"https://www.samsungparts.com/DA97-06549A.html",
+        "price":"$68.67"
+        }
+    ],
+    "DA61-04399A": [
+        {
+        "description": "SUPPORT-RACK CAN CARRY",
+        "SEC": "DA61-04399A",
+        "Details":"https://www.samsungparts.com/DA61-04399A.html",
+        "price":"$17.33"
+        }
+    ],
+    "DA75-00209A": [
+        {
+        "description": "RACK-CAN CARRY",
+        "SEC": "DA75-00209A",
+        "Details":"https://www.samsungparts.com/DA75-00209A.html",
+        "price":"$59.93"
+        }
+    ],
+    "DA67-01929B": [
+        {
+        "description": "SHELF REF-TOP",
+        "SEC": "DA67-01929B",
+        "Details":"https://www.samsungparts.com/DA67-01929B.html",
+        "price":"$37.18"
+        }
+    ],
+    "DA63-06849A": [
+        {
+        "description": "COVER LAMP-LED FRONT",
+        "SEC": "DA63-06849A",
+        "Details":"https://www.samsungparts.com/DA63-06849A-LAMP.html",
+        "price":"$6.95"
+        }
+    ],
+    "DA97-06440B": [
+        {
+        "description": "ASSY SHELF-REF LOW",
+        "SEC": "DA97-06440B",
+        "Details":"https://www.samsungparts.com/DA97-06440B-SHELF.html",
+        "price":"$55.13"
+        }
+    ],
+    "DA67-02038B": [ 
+        {
+        "description": "SHELF REF-LOW",
+        "SEC": "DA67-02038B",
+        "Details":"https://www.samsungparts.com/DA67-02038B-SHELF.html",
+        "price":"$52.00"
+        }
+    ],
+    "DA66-10104C": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-06441N": [
+        {
+        "description": "ASSY CASE-VEG UP",
+        "SEC": "DA97-06441N",
+        "Details":"https://www.samsungparts.com/DA97-06441N-CASE.html",
+        "price":"$61.17"
+        }
+    ],
+    "DA66-10104CC": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA91-04353B": [
+        {
+        "description": "ASSY DOOR FOAM",
+        "SEC": "DA91-04353B",
+        "Details":"https://www.samsungparts.com/DA91-04353B-DOOR.html",
+        "price":"$216.92"
+        }
+    ],
+    "DA97-06136B": [
+        {
+        "description": "ASSY COVER-VEG UP",
+        "SEC": "DA97-06136B",
+        "Details":"https://www.samsungparts.com/DA97-06136B-COVER.html",
+        "price":"$33.15"
+        }
+    ],
+    "DA63-04402A": [
+        {
+        "description": "GROMMET-COVER SUB",
+        "SEC": "DA63-04402A",
+        "Details":"https://www.samsungparts.com/DA63-04402A.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA66-10104CCC": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-06132R": [
+        {
+        "description": "ASSY CASE-VEG MID",
+        "SEC": "DA97-06132R",
+        "Details":"https://www.samsungparts.com/DA97-06132R-CASE.html",
+        "price":"$61.57"
+        }
+    ],
+    "DA66-10104CCCC": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-07839B": [ 
+        {
+        "description": "ASSY COVER VEG-LOW",
+        "SEC": "DA97-07839B",
+        "Details":"https://www.samsungparts.com/DA97-07839B-COVER.html",
+        "price":"$32.22"
+        }
+    ],
+    "DA63-04402AA": [
+        {
+        "description": "GROMMET-COVER SUB",
+        "SEC": "DA63-04402A",
+        "Details":"https://www.samsungparts.com/DA63-04402A.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA66-10104CCCCC": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-06131P": [
+        {
+        "description": "ASSY CASE-VEG LOW",
+        "SEC": "DA97-06131P",
+        "Details":"https://www.samsungparts.com/DA97-06131P-CASE.html",
+        "price":"$60.57"
+        }
+    ],
+    "DA66-10104CCCCCC": [
+        {
+        "description": "ROLLER-FRE",
+        "SEC": "DA66-10104C",
+        "Details":"https://www.samsungparts.com/DA66-10104C.html",
+        "price":"$1.85"
+        }
+    ],
+    "DA97-08536F": [
+        {
+        "description": "ASSY WATER TANK",
+        "SEC": "DA97-08536F",
+        "Details":"https://www.samsungparts.com/DA97-08536F-WATER-TANK.html",
+        "price":"$65.12"
+        }
+    ],
+    "DA62-02429T": [
+        {
+        "description": "PIPE-WATER LINE",
+        "SEC": "DA62-02429T",
+        "Details":"",
+        "price":""
+        }
+    ],
+    "DA97-02806G": [ 
+        {
+        "description": "ASSY TRAY-EGG",
+        "SEC": "DA97-02806G",
+        "Details":"https://www.samsungparts.com/DA97-02806G-EGG-TRAY.html",
+        "price":"$18.82"
+        }
+    ],
+    "DA63-05113A": [
+        {
+        "description": "TRAY EGG",
+        "SEC": "DA63-05113A",
+        "Details":"https://www.samsungparts.com/DA63-05113A-EGG-TRAY.html",
+        "price":"$17.05"
+        }
+    ],
+    "DA41-00519V": [
+        {
+        "description": "PBA COSMO-LED LAMP",
+        "SEC": "DA41-00519V",
+        "Details":"https://www.samsungparts.com/DA41-00519V.html",
+        "price":"$18.21"
+        }
+    ]
+}
+
+
+
+
+
+
